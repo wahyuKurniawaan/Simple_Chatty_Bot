@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Simple Chatty Bot/task/build/

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Problems/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/Boys in the sport class" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Check the value (1)" />
+            <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems/Desks" />
+            <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Problems/Get last digit" />
+            <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Problems/Groundhogs at the party" />
+            <option value="$PROJECT_DIR$/Problems/Job" />
+            <option value="$PROJECT_DIR$/Problems/Knights" />
+            <option value="$PROJECT_DIR$/Problems/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Problems/Leap year" />
+            <option value="$PROJECT_DIR$/Problems/National assembly" />
+            <option value="$PROJECT_DIR$/Problems/Number squared" />
+            <option value="$PROJECT_DIR$/Problems/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Problems/Queens" />
+            <option value="$PROJECT_DIR$/Problems/Right equation" />
+            <option value="$PROJECT_DIR$/Problems/Sequence" />
+            <option value="$PROJECT_DIR$/Problems/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/Within a range" />
+            <option value="$PROJECT_DIR$/Problems/Within both ranges" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
